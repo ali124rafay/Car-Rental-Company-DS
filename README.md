@@ -1,2 +1,2 @@
-# Car-Tental-Company-DS
-Semester Project for my Data Structures Course
+# Car-Rental-Company-DS
+Semester Project for Data Structures Course
